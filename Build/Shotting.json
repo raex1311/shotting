@@ -5,7 +5,7 @@
 "asmCodeUrl": "Shotting.asm.code.unityweb",
 "asmMemoryUrl": "Shotting.asm.memory.unityweb",
 "asmFrameworkUrl": "Shotting.asm.framework.unityweb",
-"TOTAL_MEMORY": 16777216,
+"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
